@@ -19,7 +19,7 @@ public class Ex1_NomeEIdade {
             nome = scan.next();
             if (nome.equals("0")) break;
 
-            System.out.println("Idade: ");
+            System.out.println("idade: ");
             idade = scan.nextInt();
         }
 
